@@ -1,6 +1,6 @@
 # K-Nearest Neighbors (K-NN)
 
-This repository contains code for implementing the K-Nearest Neighbors (K-NN) algorithm on a dataset of customer information for a social network ad. The code is written in Python and uses the scikit-learn library.
+This repository contains code for implementing the K-Nearest Neighbors (K-NN) algorithm on a dataset of customer information for a social network ad. The code is written in Python & R and uses the scikit-learn library.
 
 ## Code Explanation
 
